@@ -1,4 +1,3 @@
 def square_array(array)
-array.each
-new_numbers # your code here
+array.each # your code here
 end
